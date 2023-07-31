@@ -40,7 +40,7 @@
 
 ➡️ Error handling
 
-➡️ Mobile repsonsiveness
+➡️ Mobile responsiveness
 
 ➡️ Loading skeletons
 
